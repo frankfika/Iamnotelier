@@ -1,0 +1,8 @@
+{
+  "name": "NeuroPolygraph 2077",
+  "description": "A high-fidelity, cyberpunk-styled holographic lie detector powered by Gemini Multimodal Live API. Detects micro-expressions and vocal stress in real-time.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
